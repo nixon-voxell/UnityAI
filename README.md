@@ -38,7 +38,7 @@ This package depends on the [UnityUtil](https://github.com/voxell-tech/UnityUtil
 
 ## License
 
-This repository as a whole is licensed under the GNU Public License, Version 3. Individual files may have a different, but compatible license.
+This repository as a whole is licensed under the Apache License 2.0. Individual files may have a different, but compatible license.
 
 See [license file](./LICENSE) for details.
 
