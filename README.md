@@ -13,8 +13,7 @@ The aim of this package is to provide AI related tools in Unity. This package re
 
 ## Installation
 
-This package depends:
-- voxell.util (UnityUtil)
+This package depends on the [UnityUtil](https://github.com/voxell-tech/UnityUtil) package.
 
 1. Clone the [UnityUtil](https://github.com/voxell-tech/UnityUtil) repository into your `Packages` folder.
 2. Clone this repository into your `Packages` folder.
